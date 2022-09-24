@@ -16,7 +16,8 @@ The embeddings were generated usign dimensionality reduction methods such as:
 - Code to create the model: Autoencoder.ipynb
 - Code to generate the embeddings: Features_Autoencoder.ipynb
 
-* The embeddigns can be found in the folder 'Embeddings/' with the names
+
+The embeddigns can be found in the folder 'Embeddings/' with the names
 
 - Features of Supervised Contrastive Learning: embeddings_contrastive_learning_1024features.csv
 
