@@ -1,5 +1,7 @@
 # Satellite_Images_Embeddings
 
+### Embeddings:
+
 Embeddings of 1024 features generated using the satellite images of the top 5 municipalities with most dengue cases in Colombia. 
 The embeddings were generated usign dimensionality reduction methods such as:
 
