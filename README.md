@@ -26,3 +26,11 @@ The embeddigns can be found in the folder 'Embeddings/' with the names
 - Features of Variational Autoencoder: embeddings_vae_1024features.csv
 
 - Features of Autoencoder: embeddings_autoencoder_1024features.csv
+
+### Machine Learning models with the dataset:
+
+1. LSTM for regression of dengue cases using the embeddigns.
+
+2. LSTM for multiclass classification using the emebeddings.
+
+3. Binary classification + Contrastive learning.
