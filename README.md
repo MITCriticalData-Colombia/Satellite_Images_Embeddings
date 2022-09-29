@@ -34,3 +34,7 @@ The embeddigns can be found in the folder 'Embeddings/' with the names
 2. LSTM for multiclass classification using the emebeddings.
 
 3. Binary classification + Contrastive learning.
+
+
+All labels used to train the models can be found in the folder: 'Dengue_dataset/'
+All the embeddings used to train the models can be found in folder 'Embeddings/'
